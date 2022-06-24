@@ -1,5 +1,5 @@
 <img align="center" width="100%" height="300" src="https://media4.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="header" />
-<h1 align="center">Hi <img  width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" />, I'm Roushan Gupta</h1>
+<h1 align="center">Hi, <img  width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" /> I'm Roushan Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif" alt="coding" />
 
